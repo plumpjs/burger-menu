@@ -1,0 +1,27 @@
+{
+  "name": "plumpjs-burger-menu",
+  "version": "0.1.0",
+  "homepage": "https://github.com/plumpjs/burger-menu",
+  "authors": [
+    "James Howard <james@plumpdigital.co.uk>"
+  ],
+  "description": "Mobile navigation.",
+  "main": "burger-menu.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "mobile",
+    "navigation",
+    "responsive",
+    "js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
