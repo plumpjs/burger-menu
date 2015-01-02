@@ -1,5 +1,11 @@
-// exports BurgerMenu
+/* exported BurgerMenu */
 
+/**
+ *    PlumpJS: BurgerMenu
+ *    Creates a responsive navigation menu based on the
+ *    viewport width using max-width and window resize
+ *    event listeners.
+ */
 var BurgerMenu = new Class({
 	
 	Implements : Options,
